@@ -1,0 +1,2403 @@
+{
+    "files": {
+        "(5,1,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "b743dc745ee30ed140b0951b97a4a4e3", 
+            "key": "(5,1,7)", 
+            "filename": "D:\\maps\\5\\1\\7.png"
+        }, 
+        "(6,10,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,10,3)", 
+            "filename": "D:\\maps\\6\\10\\3.png"
+        }, 
+        "(5,7,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "1794fe42ce7c6b5b71ee0fafb6fce869", 
+            "key": "(5,7,3)", 
+            "filename": "D:\\maps\\5\\7\\3.png"
+        }, 
+        "(6,1,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,1,7)", 
+            "filename": "D:\\maps\\6\\1\\7.png"
+        }, 
+        "(6,15,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,13)", 
+            "filename": "D:\\maps\\6\\15\\13.png"
+        }, 
+        "(6,12,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "51f019ada2179dc4ffbb16206814184c", 
+            "key": "(6,12,11)", 
+            "filename": "D:\\maps\\6\\12\\11.png"
+        }, 
+        "(4,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "5b5dff05032029b7d7bb6c5b3a84c1be", 
+            "key": "(4,0,0)", 
+            "filename": "D:\\maps\\4\\0\\0.png"
+        }, 
+        "(6,1,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "e716d6916dc6d081a1a0ac47fb1ca49e", 
+            "key": "(6,1,14)", 
+            "filename": "D:\\maps\\6\\1\\14.png"
+        }, 
+        "(6,6,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "5b28433f0acec54fbbd579455b5d3e8b", 
+            "key": "(6,6,6)", 
+            "filename": "D:\\maps\\6\\6\\6.png"
+        }, 
+        "(6,13,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "b0ebf026979148ebaabcf0055512d573", 
+            "key": "(6,13,9)", 
+            "filename": "D:\\maps\\6\\13\\9.png"
+        }, 
+        "(2,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "4fa82fd360e6edece3d407d9a0c7cb1a", 
+            "key": "(2,0,0)", 
+            "filename": "D:\\maps\\2\\0\\0.png"
+        }, 
+        "(6,15,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "4cce1a22491cf49df15a7f050b8000ea", 
+            "key": "(6,15,8)", 
+            "filename": "D:\\maps\\6\\15\\8.png"
+        }, 
+        "(6,9,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "4d3b3071b70842da59c27111dece7d2b", 
+            "key": "(6,9,13)", 
+            "filename": "D:\\maps\\6\\9\\13.png"
+        }, 
+        "(6,6,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "1173359d405972da4a0bf4e43d0676e6", 
+            "key": "(6,6,15)", 
+            "filename": "D:\\maps\\6\\6\\15.png"
+        }, 
+        "(5,2,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "eea9c0171e3e36cb40337114f510c5f7", 
+            "key": "(5,2,2)", 
+            "filename": "D:\\maps\\5\\2\\2.png"
+        }, 
+        "(6,4,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "8cb8655c1dece6fef9b5f0598839a5ff", 
+            "key": "(6,4,2)", 
+            "filename": "D:\\maps\\6\\4\\2.png"
+        }, 
+        "(6,10,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "54c69f014a71442c02f1d698adfc6661", 
+            "key": "(6,10,11)", 
+            "filename": "D:\\maps\\6\\10\\11.png"
+        }, 
+        "(6,5,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "6e105ac002a87176fbc7ea67b076f876", 
+            "key": "(6,5,6)", 
+            "filename": "D:\\maps\\6\\5\\6.png"
+        }, 
+        "(6,7,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7035ea97dba457924623ca5124059692", 
+            "key": "(6,7,5)", 
+            "filename": "D:\\maps\\6\\7\\5.png"
+        }, 
+        "(5,1,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "ead3066058cf112f75bb01169ac9e3db", 
+            "key": "(5,1,3)", 
+            "filename": "D:\\maps\\5\\1\\3.png"
+        }, 
+        "(6,0,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "fd92af072d05221053e26039a825ac47", 
+            "key": "(6,0,12)", 
+            "filename": "D:\\maps\\6\\0\\12.png"
+        }, 
+        "(6,2,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "b946b9e0245499418149e67c6127c840", 
+            "key": "(6,2,4)", 
+            "filename": "D:\\maps\\6\\2\\4.png"
+        }, 
+        "(6,13,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,13,12)", 
+            "filename": "D:\\maps\\6\\13\\12.png"
+        }, 
+        "(6,8,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,8,2)", 
+            "filename": "D:\\maps\\6\\8\\2.png"
+        }, 
+        "(6,4,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "e0d0b42fe5f89d9f4a15b02bcfc6a0be", 
+            "key": "(6,4,5)", 
+            "filename": "D:\\maps\\6\\4\\5.png"
+        }, 
+        "(6,7,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,7,1)", 
+            "filename": "D:\\maps\\6\\7\\1.png"
+        }, 
+        "(6,12,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "f0d228b8cf110d35f666267616b453b9", 
+            "key": "(6,12,5)", 
+            "filename": "D:\\maps\\6\\12\\5.png"
+        }, 
+        "(4,0,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "0876dcf9774fa2d7d72b5cc5a72f5d7c", 
+            "key": "(4,0,3)", 
+            "filename": "D:\\maps\\4\\0\\3.png"
+        }, 
+        "(5,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "1fcab5f4f51113c6c74ea729bc87d332", 
+            "key": "(5,0,1)", 
+            "filename": "D:\\maps\\5\\0\\1.png"
+        }, 
+        "(6,2,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "575337f16111dbea3d5ee90ac8269193", 
+            "key": "(6,2,3)", 
+            "filename": "D:\\maps\\6\\2\\3.png"
+        }, 
+        "(6,11,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "714af0379b5ea207177709fed70d82fe", 
+            "key": "(6,11,6)", 
+            "filename": "D:\\maps\\6\\11\\6.png"
+        }, 
+        "(6,7,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,7,13)", 
+            "filename": "D:\\maps\\6\\7\\13.png"
+        }, 
+        "(6,14,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3d6b4780cfc7f0ae21e4aa3ab7613ccd", 
+            "key": "(6,14,6)", 
+            "filename": "D:\\maps\\6\\14\\6.png"
+        }, 
+        "(6,14,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "be497ee4f6da578ec815442ae4c45fd7", 
+            "key": "(6,14,7)", 
+            "filename": "D:\\maps\\6\\14\\7.png"
+        }, 
+        "(5,4,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,4,0)", 
+            "filename": "D:\\maps\\5\\4\\0.png"
+        }, 
+        "(6,4,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,4,13)", 
+            "filename": "D:\\maps\\6\\4\\13.png"
+        }, 
+        "(6,8,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3b4d1acf74e54068d80373bb01bcbc71", 
+            "key": "(6,8,15)", 
+            "filename": "D:\\maps\\6\\8\\15.png"
+        }, 
+        "(6,3,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,3,0)", 
+            "filename": "D:\\maps\\6\\3\\0.png"
+        }, 
+        "(5,5,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "876d8f07145aa29cdafed8a83f03a58b", 
+            "key": "(5,5,5)", 
+            "filename": "D:\\maps\\5\\5\\5.png"
+        }, 
+        "(6,13,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "79618d02bfceb8dfb5473e3bff6d3759", 
+            "key": "(6,13,8)", 
+            "filename": "D:\\maps\\6\\13\\8.png"
+        }, 
+        "(6,15,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "b8656b50e595a9b7b733bb4327ff41da", 
+            "key": "(6,15,7)", 
+            "filename": "D:\\maps\\6\\15\\7.png"
+        }, 
+        "(6,9,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ed37eacf379f0d7196edf24b925dd69e", 
+            "key": "(6,9,6)", 
+            "filename": "D:\\maps\\6\\9\\6.png"
+        }, 
+        "(6,1,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "2d3002545977d0301837e17dc6fd5c63", 
+            "key": "(6,1,11)", 
+            "filename": "D:\\maps\\6\\1\\11.png"
+        }, 
+        "(6,12,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "d94e39e4a28fc15f39ef6beefa39a693", 
+            "key": "(6,12,9)", 
+            "filename": "D:\\maps\\6\\12\\9.png"
+        }, 
+        "(5,2,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "398664945199babfc8dc29e893482398", 
+            "key": "(5,2,1)", 
+            "filename": "D:\\maps\\5\\2\\1.png"
+        }, 
+        "(6,1,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "940a02c18f252cc27183e3b6a5c7ba73", 
+            "key": "(6,1,6)", 
+            "filename": "D:\\maps\\6\\1\\6.png"
+        }, 
+        "(6,0,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "84b8b57da92177f168d77c237a4ec020", 
+            "key": "(6,0,15)", 
+            "filename": "D:\\maps\\6\\0\\15.png"
+        }, 
+        "(6,6,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "5a2dfb85ee04bb83ea33cb3b42ba6991", 
+            "key": "(6,6,7)", 
+            "filename": "D:\\maps\\6\\6\\7.png"
+        }, 
+        "(6,1,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "8371012956054dd5f5d3ef19874a3109", 
+            "key": "(6,1,15)", 
+            "filename": "D:\\maps\\6\\1\\15.png"
+        }, 
+        "(5,1,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a899bc153b17333638e00f79031ed754", 
+            "key": "(5,1,4)", 
+            "filename": "D:\\maps\\5\\1\\4.png"
+        }, 
+        "(6,13,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "7649ca075febd4e7d98ba5f60d122f12", 
+            "key": "(6,13,6)", 
+            "filename": "D:\\maps\\6\\13\\6.png"
+        }, 
+        "(6,15,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,9)", 
+            "filename": "D:\\maps\\6\\15\\9.png"
+        }, 
+        "(5,7,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "8f2aad5e7ce6a93bd5b5a797f52c3243", 
+            "key": "(5,7,5)", 
+            "filename": "D:\\maps\\5\\7\\5.png"
+        }, 
+        "(6,5,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ce3e3d6a547c6f6cb55016dcee6a1c25", 
+            "key": "(6,5,5)", 
+            "filename": "D:\\maps\\6\\5\\5.png"
+        }, 
+        "(6,4,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "e50cca9def95678de2c2740368c00244", 
+            "key": "(6,4,3)", 
+            "filename": "D:\\maps\\6\\4\\3.png"
+        }, 
+        "(4,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "75334215450ad3b1429141c920609e72", 
+            "key": "(4,0,1)", 
+            "filename": "D:\\maps\\4\\0\\1.png"
+        }, 
+        "(6,9,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "fe2b777b5cd855eb95d6977c1039e4b8", 
+            "key": "(6,9,10)", 
+            "filename": "D:\\maps\\6\\9\\10.png"
+        }, 
+        "(6,13,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "21c9d48dff7954ddd6ce6733841ada5b", 
+            "key": "(6,13,4)", 
+            "filename": "D:\\maps\\6\\13\\4.png"
+        }, 
+        "(6,7,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,7,4)", 
+            "filename": "D:\\maps\\6\\7\\4.png"
+        }, 
+        "(6,10,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "fbf2d0fa4a0acc9b53fe50fbf40c30fc", 
+            "key": "(6,10,12)", 
+            "filename": "D:\\maps\\6\\10\\12.png"
+        }, 
+        "(5,4,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "2ec8598db90b4e67617d15632485a083", 
+            "key": "(5,4,6)", 
+            "filename": "D:\\maps\\5\\4\\6.png"
+        }, 
+        "(6,2,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "6b602e0c5d193af1fd6f97e41481611d", 
+            "key": "(6,2,5)", 
+            "filename": "D:\\maps\\6\\2\\5.png"
+        }, 
+        "(5,3,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7875b018fceedfd6ec8cfb35602fe6fd", 
+            "key": "(5,3,5)", 
+            "filename": "D:\\maps\\5\\3\\5.png"
+        }, 
+        "(4,3,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "04f40300cb4d6bb3b4d3fbc559c1ef5c", 
+            "key": "(4,3,1)", 
+            "filename": "D:\\maps\\4\\3\\1.png"
+        }, 
+        "(6,8,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,8,3)", 
+            "filename": "D:\\maps\\6\\8\\3.png"
+        }, 
+        "(5,5,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f6eb5a08eca47dfb68439fb6e60a7340", 
+            "key": "(5,5,4)", 
+            "filename": "D:\\maps\\5\\5\\4.png"
+        }, 
+        "(6,13,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,13,1)", 
+            "filename": "D:\\maps\\6\\13\\1.png"
+        }, 
+        "(5,6,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,6,0)", 
+            "filename": "D:\\maps\\5\\6\\0.png"
+        }, 
+        "(6,10,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "40d1301e2a8b722c7bc47eef3244cd5a", 
+            "key": "(6,10,7)", 
+            "filename": "D:\\maps\\6\\10\\7.png"
+        }, 
+        "(6,12,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "fd1e4176a8e9d4c9d778eedc5adaa0b3", 
+            "key": "(6,12,4)", 
+            "filename": "D:\\maps\\6\\12\\4.png"
+        }, 
+        "(6,15,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,0)", 
+            "filename": "D:\\maps\\6\\15\\0.png"
+        }, 
+        "(5,6,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "7139a6a6fdc87109466a7bec283da384", 
+            "key": "(5,6,6)", 
+            "filename": "D:\\maps\\5\\6\\6.png"
+        }, 
+        "(6,11,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3d6d7f16eb0aa16d2f77ab31ba175d8c", 
+            "key": "(6,11,11)", 
+            "filename": "D:\\maps\\6\\11\\11.png"
+        }, 
+        "(6,0,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "89f63b8c9c493bdd4dbe70bc078f9f96", 
+            "key": "(6,0,5)", 
+            "filename": "D:\\maps\\6\\0\\5.png"
+        }, 
+        "(6,11,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "a22ef26b156474b426f04e20e3ef6146", 
+            "key": "(6,11,7)", 
+            "filename": "D:\\maps\\6\\11\\7.png"
+        }, 
+        "(6,10,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "759f883ecd58338644207d2571f9af3e", 
+            "key": "(6,10,8)", 
+            "filename": "D:\\maps\\6\\10\\8.png"
+        }, 
+        "(6,8,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,8,13)", 
+            "filename": "D:\\maps\\6\\8\\13.png"
+        }, 
+        "(6,3,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "aa076db7c537655433453a2601072c1d", 
+            "key": "(6,3,3)", 
+            "filename": "D:\\maps\\6\\3\\3.png"
+        }, 
+        "(6,7,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,7,14)", 
+            "filename": "D:\\maps\\6\\7\\14.png"
+        }, 
+        "(5,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,0,0)", 
+            "filename": "D:\\maps\\5\\0\\0.png"
+        }, 
+        "(6,4,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "17910ad4105bbe352fa381f09b772dca", 
+            "key": "(6,4,12)", 
+            "filename": "D:\\maps\\6\\4\\12.png"
+        }, 
+        "(5,7,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "aa75dafc55b832a0afd3cb825660dcd1", 
+            "key": "(5,7,4)", 
+            "filename": "D:\\maps\\5\\7\\4.png"
+        }, 
+        "(6,13,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "8dd4c8813ba5b6f08179719319c55f43", 
+            "key": "(6,13,11)", 
+            "filename": "D:\\maps\\6\\13\\11.png"
+        }, 
+        "(6,2,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "c3e7172f13c0112f6577439bd79fa5ab", 
+            "key": "(6,2,15)", 
+            "filename": "D:\\maps\\6\\2\\15.png"
+        }, 
+        "(6,1,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "10b02d27c7f397572a88366018bce50b", 
+            "key": "(6,1,5)", 
+            "filename": "D:\\maps\\6\\1\\5.png"
+        }, 
+        "(6,6,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,6,13)", 
+            "filename": "D:\\maps\\6\\6\\13.png"
+        }, 
+        "(5,2,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,2,0)", 
+            "filename": "D:\\maps\\5\\2\\0.png"
+        }, 
+        "(6,8,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "162c93a8482ae06b4e2c60e8151f23a3", 
+            "key": "(6,8,8)", 
+            "filename": "D:\\maps\\6\\8\\8.png"
+        }, 
+        "(6,6,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "30a3edb1b60c429cc935cc4c9d80bb64", 
+            "key": "(6,6,8)", 
+            "filename": "D:\\maps\\6\\6\\8.png"
+        }, 
+        "(6,4,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "f307eaf4645090564c093783c718ec33", 
+            "key": "(6,4,8)", 
+            "filename": "D:\\maps\\6\\4\\8.png"
+        }, 
+        "(5,5,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,5,1)", 
+            "filename": "D:\\maps\\5\\5\\1.png"
+        }, 
+        "(6,0,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "eac041ffffb73b02111d9033e1df9a81", 
+            "key": "(6,0,14)", 
+            "filename": "D:\\maps\\6\\0\\14.png"
+        }, 
+        "(4,1,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "d4615e10e448c7db8a556cc908410b18", 
+            "key": "(4,1,2)", 
+            "filename": "D:\\maps\\4\\1\\2.png"
+        }, 
+        "(4,1,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "0be15c55688125235da94b1c5ae7c90a", 
+            "key": "(4,1,1)", 
+            "filename": "D:\\maps\\4\\1\\1.png"
+        }, 
+        "(6,3,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,3,10)", 
+            "filename": "D:\\maps\\6\\3\\10.png"
+        }, 
+        "(6,15,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,11)", 
+            "filename": "D:\\maps\\6\\15\\11.png"
+        }, 
+        "(5,4,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "0d0ccffc8aaa7c13cfb054c8b67a90bf", 
+            "key": "(5,4,2)", 
+            "filename": "D:\\maps\\5\\4\\2.png"
+        }, 
+        "(6,4,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,4,0)", 
+            "filename": "D:\\maps\\6\\4\\0.png"
+        }, 
+        "(6,13,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,13,0)", 
+            "filename": "D:\\maps\\6\\13\\0.png"
+        }, 
+        "(6,13,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "e35274b520cdf4e256cd4fc0cc14d831", 
+            "key": "(6,13,7)", 
+            "filename": "D:\\maps\\6\\13\\7.png"
+        }, 
+        "(6,5,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "e868c90949efda9487ad705d4a2ca955", 
+            "key": "(6,5,4)", 
+            "filename": "D:\\maps\\6\\5\\4.png"
+        }, 
+        "(6,7,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "85d8f1e72735bc4aef8a664d056ee16a", 
+            "key": "(6,7,7)", 
+            "filename": "D:\\maps\\6\\7\\7.png"
+        }, 
+        "(6,2,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "d2a8cc394b92b4c4f6aed33c1ce2f9b6", 
+            "key": "(6,2,6)", 
+            "filename": "D:\\maps\\6\\2\\6.png"
+        }, 
+        "(4,1,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "9b2fa62125d15da7b24ce681c1142f6c", 
+            "key": "(4,1,0)", 
+            "filename": "D:\\maps\\4\\1\\0.png"
+        }, 
+        "(5,3,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "67553341a4089c43dca8be44cea8d869", 
+            "key": "(5,3,2)", 
+            "filename": "D:\\maps\\5\\3\\2.png"
+        }, 
+        "(6,10,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7fb43d2e54147acd18074a5646e89538", 
+            "key": "(6,10,13)", 
+            "filename": "D:\\maps\\6\\10\\13.png"
+        }, 
+        "(6,11,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "42aa4b6403a4066ad68adeb9d13ea8ce", 
+            "key": "(6,11,9)", 
+            "filename": "D:\\maps\\6\\11\\9.png"
+        }, 
+        "(6,6,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "022977f6e773e39ad134e79e517b04ce", 
+            "key": "(6,6,9)", 
+            "filename": "D:\\maps\\6\\6\\9.png"
+        }, 
+        "(6,13,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(6,13,15)", 
+            "filename": "D:\\maps\\6\\13\\15.png"
+        }, 
+        "(5,0,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "6d43f83f79972bacae36e7faf54e3cd3", 
+            "key": "(5,0,3)", 
+            "filename": "D:\\maps\\5\\0\\3.png"
+        }, 
+        "(6,15,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,12)", 
+            "filename": "D:\\maps\\6\\15\\12.png"
+        }, 
+        "(5,3,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "9fbd4d75c913d212ad686f4d4df7fe9b", 
+            "key": "(5,3,4)", 
+            "filename": "D:\\maps\\5\\3\\4.png"
+        }, 
+        "(6,10,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "074646d0afa743995ce29d20a2c9206d", 
+            "key": "(6,10,6)", 
+            "filename": "D:\\maps\\6\\10\\6.png"
+        }, 
+        "(6,0,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "40763c6e311e0c54fb243f8a04614910", 
+            "key": "(6,0,2)", 
+            "filename": "D:\\maps\\6\\0\\2.png"
+        }, 
+        "(6,12,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "ecabb56f6f41570ef91e530c4ce30fda", 
+            "key": "(6,12,3)", 
+            "filename": "D:\\maps\\6\\12\\3.png"
+        }, 
+        "(6,5,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,5,14)", 
+            "filename": "D:\\maps\\6\\5\\14.png"
+        }, 
+        "(5,1,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "43adc69c8c0d71a163e77688eac39b39", 
+            "key": "(5,1,6)", 
+            "filename": "D:\\maps\\5\\1\\6.png"
+        }, 
+        "(6,3,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "346bded04a6f358d8b9280a75930c280", 
+            "key": "(6,3,2)", 
+            "filename": "D:\\maps\\6\\3\\2.png"
+        }, 
+        "(6,11,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,11,0)", 
+            "filename": "D:\\maps\\6\\11\\0.png"
+        }, 
+        "(6,7,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "adb358964a3f82da4c33d980520d8697", 
+            "key": "(6,7,15)", 
+            "filename": "D:\\maps\\6\\7\\15.png"
+        }, 
+        "(6,9,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "2991ef741b6b8bb8aa988e14d4500120", 
+            "key": "(6,9,4)", 
+            "filename": "D:\\maps\\6\\9\\4.png"
+        }, 
+        "(6,1,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "4dcc0fbecf68f112b6f9c63667a1c9f8", 
+            "key": "(6,1,12)", 
+            "filename": "D:\\maps\\6\\1\\12.png"
+        }, 
+        "(6,9,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "4ac7e40edbb9ceedc037d6be80c044d6", 
+            "key": "(6,9,9)", 
+            "filename": "D:\\maps\\6\\9\\9.png"
+        }, 
+        "(6,8,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,8,0)", 
+            "filename": "D:\\maps\\6\\8\\0.png"
+        }, 
+        "(6,4,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(6,4,15)", 
+            "filename": "D:\\maps\\6\\4\\15.png"
+        }, 
+        "(6,6,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,6,0)", 
+            "filename": "D:\\maps\\6\\6\\0.png"
+        }, 
+        "(6,13,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ea80e8cdf2aff87fbc861bf0f4c74457", 
+            "key": "(6,13,10)", 
+            "filename": "D:\\maps\\6\\13\\10.png"
+        }, 
+        "(6,6,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "361063a96f4964b4d1d42466b3cecfc1", 
+            "key": "(6,6,12)", 
+            "filename": "D:\\maps\\6\\6\\12.png"
+        }, 
+        "(6,8,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "eaf433fb79739fbfd33b28528c2b1334", 
+            "key": "(6,8,9)", 
+            "filename": "D:\\maps\\6\\8\\9.png"
+        }, 
+        "(6,2,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ac3ef32883f1df7d910d9cfaf9765a85", 
+            "key": "(6,2,13)", 
+            "filename": "D:\\maps\\6\\2\\13.png"
+        }, 
+        "(6,5,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "9a8d54f3c7689726061d5c6a2710a07f", 
+            "key": "(6,5,3)", 
+            "filename": "D:\\maps\\6\\5\\3.png"
+        }, 
+        "(6,4,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,4,9)", 
+            "filename": "D:\\maps\\6\\4\\9.png"
+        }, 
+        "(6,10,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,10,14)", 
+            "filename": "D:\\maps\\6\\10\\14.png"
+        }, 
+        "(5,7,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "09ea6a89a49cc7adb1b6298230a9724e", 
+            "key": "(5,7,2)", 
+            "filename": "D:\\maps\\5\\7\\2.png"
+        }, 
+        "(5,4,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "8b11e44c3c43e4106e606613cf171821", 
+            "key": "(5,4,5)", 
+            "filename": "D:\\maps\\5\\4\\5.png"
+        }, 
+        "(4,3,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "fd94cb1d6502e9b08e331ba9feb73f07", 
+            "key": "(4,3,3)", 
+            "filename": "D:\\maps\\4\\3\\3.png"
+        }, 
+        "(6,10,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "35b519bde1fbf9218076ae5171134d11", 
+            "key": "(6,10,4)", 
+            "filename": "D:\\maps\\6\\10\\4.png"
+        }, 
+        "(6,3,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,3,11)", 
+            "filename": "D:\\maps\\6\\3\\11.png"
+        }, 
+        "(6,9,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "be4cf27cdcfc0d417ce6d912a5ccb547", 
+            "key": "(6,9,5)", 
+            "filename": "D:\\maps\\6\\9\\5.png"
+        }, 
+        "(6,12,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,12,14)", 
+            "filename": "D:\\maps\\6\\12\\14.png"
+        }, 
+        "(6,7,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "b035121fb7cade221f09b38e7f499a10", 
+            "key": "(6,7,6)", 
+            "filename": "D:\\maps\\6\\7\\6.png"
+        }, 
+        "(5,0,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ec9bf459bc7cc56890f4e375f05f1e23", 
+            "key": "(5,0,5)", 
+            "filename": "D:\\maps\\5\\0\\5.png"
+        }, 
+        "(6,2,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "4ed20421d3d34364b08e55d9f497cef0", 
+            "key": "(6,2,7)", 
+            "filename": "D:\\maps\\6\\2\\7.png"
+        }, 
+        "(5,3,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "b99eb1ca32838afd678630506513f83b", 
+            "key": "(5,3,3)", 
+            "filename": "D:\\maps\\5\\3\\3.png"
+        }, 
+        "(6,0,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,0,8)", 
+            "filename": "D:\\maps\\6\\0\\8.png"
+        }, 
+        "(6,1,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "5d1fa611c96b2304a80cfb2f44c18738", 
+            "key": "(6,1,4)", 
+            "filename": "D:\\maps\\6\\1\\4.png"
+        }, 
+        "(6,14,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,14,0)", 
+            "filename": "D:\\maps\\6\\14\\0.png"
+        }, 
+        "(5,0,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "e8d785b6db1e1c7ac1059b05d308dc63", 
+            "key": "(5,0,2)", 
+            "filename": "D:\\maps\\5\\0\\2.png"
+        }, 
+        "(6,3,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "f5e90fee7748749979a7224d1580ea85", 
+            "key": "(6,3,5)", 
+            "filename": "D:\\maps\\6\\3\\5.png"
+        }, 
+        "(6,9,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "27a8957e465ce95fd29e157b5ef9255e", 
+            "key": "(6,9,12)", 
+            "filename": "D:\\maps\\6\\9\\12.png"
+        }, 
+        "(6,0,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "5709291113f82d69297545f67d38ebc6", 
+            "key": "(6,0,3)", 
+            "filename": "D:\\maps\\6\\0\\3.png"
+        }, 
+        "(6,15,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,14)", 
+            "filename": "D:\\maps\\6\\15\\14.png"
+        }, 
+        "(5,5,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "bd8660d7e0e2a87de15acc2f02d4de2d", 
+            "key": "(5,5,3)", 
+            "filename": "D:\\maps\\5\\5\\3.png"
+        }, 
+        "(6,10,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,10,1)", 
+            "filename": "D:\\maps\\6\\10\\1.png"
+        }, 
+        "(6,12,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,12,2)", 
+            "filename": "D:\\maps\\6\\12\\2.png"
+        }, 
+        "(6,15,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,2)", 
+            "filename": "D:\\maps\\6\\15\\2.png"
+        }, 
+        "(6,5,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(6,5,15)", 
+            "filename": "D:\\maps\\6\\5\\15.png"
+        }, 
+        "(5,1,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "0702b2c78420505b2e1b0b444e3ee8bc", 
+            "key": "(5,1,1)", 
+            "filename": "D:\\maps\\5\\1\\1.png"
+        }, 
+        "(6,9,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,9,3)", 
+            "filename": "D:\\maps\\6\\9\\3.png"
+        }, 
+        "(5,6,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "d669f9803d4a715675823467564ca6b3", 
+            "key": "(5,6,5)", 
+            "filename": "D:\\maps\\5\\6\\5.png"
+        }, 
+        "(5,2,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "6bcaa81b4a75c7834735a2a9e6044f12", 
+            "key": "(5,2,6)", 
+            "filename": "D:\\maps\\5\\2\\6.png"
+        }, 
+        "(6,11,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,11,1)", 
+            "filename": "D:\\maps\\6\\11\\1.png"
+        }, 
+        "(5,6,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(5,6,7)", 
+            "filename": "D:\\maps\\5\\6\\7.png"
+        }, 
+        "(6,14,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,14,13)", 
+            "filename": "D:\\maps\\6\\14\\13.png"
+        }, 
+        "(6,1,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "8031fbd99c0227a987cf622470bbac33", 
+            "key": "(6,1,13)", 
+            "filename": "D:\\maps\\6\\1\\13.png"
+        }, 
+        "(6,8,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,8,1)", 
+            "filename": "D:\\maps\\6\\8\\1.png"
+        }, 
+        "(5,1,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,1,0)", 
+            "filename": "D:\\maps\\5\\1\\0.png"
+        }, 
+        "(6,6,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,6,1)", 
+            "filename": "D:\\maps\\6\\6\\1.png"
+        }, 
+        "(6,4,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,4,14)", 
+            "filename": "D:\\maps\\6\\4\\14.png"
+        }, 
+        "(5,7,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,7,0)", 
+            "filename": "D:\\maps\\5\\7\\0.png"
+        }, 
+        "(6,2,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "f1ff532923ce1671bc35e024c48ed326", 
+            "key": "(6,2,14)", 
+            "filename": "D:\\maps\\6\\2\\14.png"
+        }, 
+        "(6,5,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,5,2)", 
+            "filename": "D:\\maps\\6\\5\\2.png"
+        }, 
+        "(6,2,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "27b560911dcf82a3d9bed546271c425d", 
+            "key": "(6,2,12)", 
+            "filename": "D:\\maps\\6\\2\\12.png"
+        }, 
+        "(6,6,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "1c20921eecbb89cc1e2c21ae51cd3128", 
+            "key": "(6,6,11)", 
+            "filename": "D:\\maps\\6\\6\\11.png"
+        }, 
+        "(6,10,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "1c0a4bc8b27d31eb36b1b48ed41b9b78", 
+            "key": "(6,10,9)", 
+            "filename": "D:\\maps\\6\\10\\9.png"
+        }, 
+        "(5,4,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "127b7dcaad3e9ec465892a7b84d324ad", 
+            "key": "(5,4,4)", 
+            "filename": "D:\\maps\\5\\4\\4.png"
+        }, 
+        "(5,3,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "55221daffcc00b38bf7f9d090bc09460", 
+            "key": "(5,3,7)", 
+            "filename": "D:\\maps\\5\\3\\7.png"
+        }, 
+        "(6,10,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(6,10,15)", 
+            "filename": "D:\\maps\\6\\10\\15.png"
+        }, 
+        "(3,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "47355f15dfc5d337d3a2ef80810055f7", 
+            "key": "(3,0,1)", 
+            "filename": "D:\\maps\\3\\0\\1.png"
+        }, 
+        "(6,2,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,2,0)", 
+            "filename": "D:\\maps\\6\\2\\0.png"
+        }, 
+        "(6,3,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "03e41fb25309bc8f626cbd84d659fc29", 
+            "key": "(6,3,12)", 
+            "filename": "D:\\maps\\6\\3\\12.png"
+        }, 
+        "(5,3,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,3,0)", 
+            "filename": "D:\\maps\\5\\3\\0.png"
+        }, 
+        "(6,10,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,10,0)", 
+            "filename": "D:\\maps\\6\\10\\0.png"
+        }, 
+        "(5,7,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(5,7,7)", 
+            "filename": "D:\\maps\\5\\7\\7.png"
+        }, 
+        "(6,13,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "db3ac10224a94054d68aab41636b8ce3", 
+            "key": "(6,13,5)", 
+            "filename": "D:\\maps\\6\\13\\5.png"
+        }, 
+        "(5,6,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ae0a0a8929c83cf334f357f91280002a", 
+            "key": "(5,6,1)", 
+            "filename": "D:\\maps\\5\\6\\1.png"
+        }, 
+        "(6,1,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "7165e56f09f7071d3f111ba27b5fdf26", 
+            "key": "(6,1,3)", 
+            "filename": "D:\\maps\\6\\1\\3.png"
+        }, 
+        "(6,0,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "c7e870a6ae6e27e49d71bc0efd8e476c", 
+            "key": "(6,0,9)", 
+            "filename": "D:\\maps\\6\\0\\9.png"
+        }, 
+        "(6,14,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "00447cba713aaf01cb94495177a2c9fc", 
+            "key": "(6,14,10)", 
+            "filename": "D:\\maps\\6\\14\\10.png"
+        }, 
+        "(4,2,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "903387021ba597bb2e6a86d5d811b1b9", 
+            "key": "(4,2,2)", 
+            "filename": "D:\\maps\\4\\2\\2.png"
+        }, 
+        "(6,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,0,0)", 
+            "filename": "D:\\maps\\6\\0\\0.png"
+        }, 
+        "(6,3,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "764f8f3979906a6f2c475264e2633827", 
+            "key": "(6,3,4)", 
+            "filename": "D:\\maps\\6\\3\\4.png"
+        }, 
+        "(5,2,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,2,5)", 
+            "filename": "D:\\maps\\5\\2\\5.png"
+        }, 
+        "(6,14,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,14,3)", 
+            "filename": "D:\\maps\\6\\14\\3.png"
+        }, 
+        "(6,8,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c31a82648abaaa4b2dd4e3016e103eb7", 
+            "key": "(6,8,6)", 
+            "filename": "D:\\maps\\6\\8\\6.png"
+        }, 
+        "(6,4,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,4,1)", 
+            "filename": "D:\\maps\\6\\4\\1.png"
+        }, 
+        "(6,11,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,11,14)", 
+            "filename": "D:\\maps\\6\\11\\14.png"
+        }, 
+        "(6,9,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,9,2)", 
+            "filename": "D:\\maps\\6\\9\\2.png"
+        }, 
+        "(6,12,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,12,1)", 
+            "filename": "D:\\maps\\6\\12\\1.png"
+        }, 
+        "(6,12,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(6,12,15)", 
+            "filename": "D:\\maps\\6\\12\\15.png"
+        }, 
+        "(6,5,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,5,12)", 
+            "filename": "D:\\maps\\6\\5\\12.png"
+        }, 
+        "(6,6,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,6,2)", 
+            "filename": "D:\\maps\\6\\6\\2.png"
+        }, 
+        "(6,11,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,11,2)", 
+            "filename": "D:\\maps\\6\\11\\2.png"
+        }, 
+        "(6,14,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,14,14)", 
+            "filename": "D:\\maps\\6\\14\\14.png"
+        }, 
+        "(6,7,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "fd3e762014a410cc62782080004e91a0", 
+            "key": "(6,7,9)", 
+            "filename": "D:\\maps\\6\\7\\9.png"
+        }, 
+        "(6,1,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "53db88a5f28fd0d9fc07fd81dfc37bba", 
+            "key": "(6,1,10)", 
+            "filename": "D:\\maps\\6\\1\\10.png"
+        }, 
+        "(6,5,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,5,1)", 
+            "filename": "D:\\maps\\6\\5\\1.png"
+        }, 
+        "(6,14,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,14,12)", 
+            "filename": "D:\\maps\\6\\14\\12.png"
+        }, 
+        "(4,3,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "5de8462f7df9f768c8d27f1d90d56327", 
+            "key": "(4,3,0)", 
+            "filename": "D:\\maps\\4\\3\\0.png"
+        }, 
+        "(5,4,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "f129b0fdb08d070222aa495f1bf996ae", 
+            "key": "(5,4,7)", 
+            "filename": "D:\\maps\\5\\4\\7.png"
+        }, 
+        "(6,7,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,7,0)", 
+            "filename": "D:\\maps\\6\\7\\0.png"
+        }, 
+        "(6,6,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "c35803b13a459b4322462213e664fe33", 
+            "key": "(6,6,10)", 
+            "filename": "D:\\maps\\6\\6\\10.png"
+        }, 
+        "(6,2,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "9160c74cd199873fb36f53d581c4e348", 
+            "key": "(6,2,10)", 
+            "filename": "D:\\maps\\6\\2\\10.png"
+        }, 
+        "(6,2,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "8f0085abad3875c116cc74aabe455685", 
+            "key": "(6,2,11)", 
+            "filename": "D:\\maps\\6\\2\\11.png"
+        }, 
+        "(6,9,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,9,1)", 
+            "filename": "D:\\maps\\6\\9\\1.png"
+        }, 
+        "(6,12,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "0617c2611e115b317321a14cee8132c0", 
+            "key": "(6,12,6)", 
+            "filename": "D:\\maps\\6\\12\\6.png"
+        }, 
+        "(5,1,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7ea8b4d54c4d8353560d324f9a298d83", 
+            "key": "(5,1,5)", 
+            "filename": "D:\\maps\\5\\1\\5.png"
+        }, 
+        "(5,0,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "6ee1e68508220e43476d6426066ac301", 
+            "key": "(5,0,7)", 
+            "filename": "D:\\maps\\5\\0\\7.png"
+        }, 
+        "(6,2,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,2,1)", 
+            "filename": "D:\\maps\\6\\2\\1.png"
+        }, 
+        "(4,0,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3d6e019535ef123635cd51a4bc3e717e", 
+            "key": "(4,0,2)", 
+            "filename": "D:\\maps\\4\\0\\2.png"
+        }, 
+        "(5,3,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,3,1)", 
+            "filename": "D:\\maps\\5\\3\\1.png"
+        }, 
+        "(6,3,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "26abba4a66a274bdfad28a53dcfc0c87", 
+            "key": "(6,3,13)", 
+            "filename": "D:\\maps\\6\\3\\13.png"
+        }, 
+        "(6,0,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "8af19a08d61a335e3e0a889a6a293347", 
+            "key": "(6,0,11)", 
+            "filename": "D:\\maps\\6\\0\\11.png"
+        }, 
+        "(6,0,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,0,6)", 
+            "filename": "D:\\maps\\6\\0\\6.png"
+        }, 
+        "(6,1,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "fa1e5de7d82ae7ea206ae1c4c6fb0218", 
+            "key": "(6,1,2)", 
+            "filename": "D:\\maps\\6\\1\\2.png"
+        }, 
+        "(5,6,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "15a6f770b9d3585c575e3f33ea88c4c1", 
+            "key": "(5,6,2)", 
+            "filename": "D:\\maps\\5\\6\\2.png"
+        }, 
+        "(5,2,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "596e99a12b88f4648b1327280df3ea13", 
+            "key": "(5,2,4)", 
+            "filename": "D:\\maps\\5\\2\\4.png"
+        }, 
+        "(6,13,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,13,2)", 
+            "filename": "D:\\maps\\6\\13\\2.png"
+        }, 
+        "(6,11,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "9780231fad572880d37239a217c88216", 
+            "key": "(6,11,8)", 
+            "filename": "D:\\maps\\6\\11\\8.png"
+        }, 
+        "(5,7,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,7,1)", 
+            "filename": "D:\\maps\\5\\7\\1.png"
+        }, 
+        "(6,3,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "f1cb0064d50167788c1f7c61a3d490c4", 
+            "key": "(6,3,7)", 
+            "filename": "D:\\maps\\6\\3\\7.png"
+        }, 
+        "(4,2,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "451f5c6e0ab258b3498aa131df663416", 
+            "key": "(4,2,3)", 
+            "filename": "D:\\maps\\4\\2\\3.png"
+        }, 
+        "(6,0,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,0,1)", 
+            "filename": "D:\\maps\\6\\0\\1.png"
+        }, 
+        "(3,0,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "1d8dacf87d49b2bfca39586b8947aca4", 
+            "key": "(3,0,0)", 
+            "filename": "D:\\maps\\3\\0\\0.png"
+        }, 
+        "(5,6,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "7db75fce1f1772f8b6afc375e67780f5", 
+            "key": "(5,6,4)", 
+            "filename": "D:\\maps\\5\\6\\4.png"
+        }, 
+        "(6,14,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,14,2)", 
+            "filename": "D:\\maps\\6\\14\\2.png"
+        }, 
+        "(6,7,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "d329e14dbe6315e4ded45f9187940b87", 
+            "key": "(6,7,10)", 
+            "filename": "D:\\maps\\6\\7\\10.png"
+        }, 
+        "(6,4,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3f059b8a2d3b27cf013001e179e912a1", 
+            "key": "(6,4,6)", 
+            "filename": "D:\\maps\\6\\4\\6.png"
+        }, 
+        "(6,8,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "e5a08574debec648c94e23d88110cdf8", 
+            "key": "(6,8,7)", 
+            "filename": "D:\\maps\\6\\8\\7.png"
+        }, 
+        "(5,5,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,5,0)", 
+            "filename": "D:\\maps\\5\\5\\0.png"
+        }, 
+        "(6,8,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "d436a6e16ea75cb5bffd9ffc7d9aab30", 
+            "key": "(6,8,12)", 
+            "filename": "D:\\maps\\6\\8\\12.png"
+        }, 
+        "(5,5,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "e98f8188a297e322149cc8bdcfad5b60", 
+            "key": "(5,5,2)", 
+            "filename": "D:\\maps\\5\\5\\2.png"
+        }, 
+        "(6,9,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "a6ac3e3d46083af063022e3574dbea3b", 
+            "key": "(6,9,15)", 
+            "filename": "D:\\maps\\6\\9\\15.png"
+        }, 
+        "(6,12,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,12,0)", 
+            "filename": "D:\\maps\\6\\12\\0.png"
+        }, 
+        "(6,15,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,4)", 
+            "filename": "D:\\maps\\6\\15\\4.png"
+        }, 
+        "(6,5,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,5,13)", 
+            "filename": "D:\\maps\\6\\5\\13.png"
+        }, 
+        "(6,6,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,6,3)", 
+            "filename": "D:\\maps\\6\\6\\3.png"
+        }, 
+        "(6,5,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "7cdea836b8c55f77cd240c13377efb6a", 
+            "key": "(6,5,9)", 
+            "filename": "D:\\maps\\6\\5\\9.png"
+        }, 
+        "(6,2,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,2,8)", 
+            "filename": "D:\\maps\\6\\2\\8.png"
+        }, 
+        "(6,11,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,11,3)", 
+            "filename": "D:\\maps\\6\\11\\3.png"
+        }, 
+        "(6,7,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "22fdfb439c7b1e83b00d1b04e27c20c8", 
+            "key": "(6,7,8)", 
+            "filename": "D:\\maps\\6\\7\\8.png"
+        }, 
+        "(6,15,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,10)", 
+            "filename": "D:\\maps\\6\\15\\10.png"
+        }, 
+        "(6,14,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(6,14,15)", 
+            "filename": "D:\\maps\\6\\14\\15.png"
+        }, 
+        "(6,7,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,7,3)", 
+            "filename": "D:\\maps\\6\\7\\3.png"
+        }, 
+        "(6,3,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "bfda9ae5a9967c003da863b622af9af9", 
+            "key": "(6,3,14)", 
+            "filename": "D:\\maps\\6\\3\\14.png"
+        }, 
+        "(3,1,0)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "52aa90bda9b8ee04c5cbd4e7de67dd28", 
+            "key": "(3,1,0)", 
+            "filename": "D:\\maps\\3\\1\\0.png"
+        }, 
+        "(6,12,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,12,13)", 
+            "filename": "D:\\maps\\6\\12\\13.png"
+        }, 
+        "(5,3,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "fc100298eb8d083e18c9fe291f0c44ad", 
+            "key": "(5,3,6)", 
+            "filename": "D:\\maps\\5\\3\\6.png"
+        }, 
+        "(6,9,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,9,0)", 
+            "filename": "D:\\maps\\6\\9\\0.png"
+        }, 
+        "(6,1,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "34e5328fa9bba0c17e1ef3a10350565a", 
+            "key": "(6,1,9)", 
+            "filename": "D:\\maps\\6\\1\\9.png"
+        }, 
+        "(6,8,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "68d6e576d78f2050d7ef50d4a31b638a", 
+            "key": "(6,8,11)", 
+            "filename": "D:\\maps\\6\\8\\11.png"
+        }, 
+        "(3,1,1)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "8c15005e0a693517f6ea0efdcb464f6b", 
+            "key": "(3,1,1)", 
+            "filename": "D:\\maps\\3\\1\\1.png"
+        }, 
+        "(5,0,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "e3a5bf33e753c897ef9c55b3c48b6d7b", 
+            "key": "(5,0,4)", 
+            "filename": "D:\\maps\\5\\0\\4.png"
+        }, 
+        "(6,9,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "d63c26587743eca1d99d3b9fb9bf81f1", 
+            "key": "(6,9,11)", 
+            "filename": "D:\\maps\\6\\9\\11.png"
+        }, 
+        "(6,3,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,3,9)", 
+            "filename": "D:\\maps\\6\\3\\9.png"
+        }, 
+        "(6,9,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "310cb950f77e8a8dab679dec8e426ffc", 
+            "key": "(6,9,8)", 
+            "filename": "D:\\maps\\6\\9\\8.png"
+        }, 
+        "(6,1,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,1,1)", 
+            "filename": "D:\\maps\\6\\1\\1.png"
+        }, 
+        "(6,0,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,0,7)", 
+            "filename": "D:\\maps\\6\\0\\7.png"
+        }, 
+        "(6,0,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ae424dc65eeddb9ea3f65a13f7efcf02", 
+            "key": "(6,0,10)", 
+            "filename": "D:\\maps\\6\\0\\10.png"
+        }, 
+        "(5,4,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "9ddee862b97ad8b2b0e5016e2f404754", 
+            "key": "(5,4,3)", 
+            "filename": "D:\\maps\\5\\4\\3.png"
+        }, 
+        "(5,5,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(5,5,7)", 
+            "filename": "D:\\maps\\5\\5\\7.png"
+        }, 
+        "(6,15,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(6,15,15)", 
+            "filename": "D:\\maps\\6\\15\\15.png"
+        }, 
+        "(5,0,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "9ca11adaade8d5493e75fe28cfe0ef23", 
+            "key": "(5,0,6)", 
+            "filename": "D:\\maps\\5\\0\\6.png"
+        }, 
+        "(5,7,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,7,6)", 
+            "filename": "D:\\maps\\5\\7\\6.png"
+        }, 
+        "(6,13,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "4c85f98ac1eacbf362662e73a41c4907", 
+            "key": "(6,13,3)", 
+            "filename": "D:\\maps\\6\\13\\3.png"
+        }, 
+        "(6,5,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,5,0)", 
+            "filename": "D:\\maps\\6\\5\\0.png"
+        }, 
+        "(6,12,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "bbb927ffa1f08fa141304179258c422e", 
+            "key": "(6,12,7)", 
+            "filename": "D:\\maps\\6\\12\\7.png"
+        }, 
+        "(6,9,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,9,14)", 
+            "filename": "D:\\maps\\6\\9\\14.png"
+        }, 
+        "(6,8,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3668471fc882809527cb63f718b236e9", 
+            "key": "(6,8,4)", 
+            "filename": "D:\\maps\\6\\8\\4.png"
+        }, 
+        "(6,4,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "7fa89a847a09cfb1b526aa237e70ef80", 
+            "key": "(6,4,7)", 
+            "filename": "D:\\maps\\6\\4\\7.png"
+        }, 
+        "(6,7,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "c97a217e968f9ff1a3ee9653ed0e3f36", 
+            "key": "(6,7,11)", 
+            "filename": "D:\\maps\\6\\7\\11.png"
+        }, 
+        "(6,14,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "ef6d80ebaf0f5f81401c772c01e86211", 
+            "key": "(6,14,5)", 
+            "filename": "D:\\maps\\6\\14\\5.png"
+        }, 
+        "(6,4,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,4,11)", 
+            "filename": "D:\\maps\\6\\4\\11.png"
+        }, 
+        "(6,6,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "c22b770c5368dda33aa1b98b0901af41", 
+            "key": "(6,6,4)", 
+            "filename": "D:\\maps\\6\\6\\4.png"
+        }, 
+        "(6,13,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,13,14)", 
+            "filename": "D:\\maps\\6\\13\\14.png"
+        }, 
+        "(6,10,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,10,2)", 
+            "filename": "D:\\maps\\6\\10\\2.png"
+        }, 
+        "(6,15,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,5)", 
+            "filename": "D:\\maps\\6\\15\\5.png"
+        }, 
+        "(6,5,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "7f8a5f1900ce92f07c877c63092e0425", 
+            "key": "(6,5,8)", 
+            "filename": "D:\\maps\\6\\5\\8.png"
+        }, 
+        "(4,3,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "4a48c7fb27a92448da9596a39b085b5c", 
+            "key": "(4,3,2)", 
+            "filename": "D:\\maps\\4\\3\\2.png"
+        }, 
+        "(6,2,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,2,9)", 
+            "filename": "D:\\maps\\6\\2\\9.png"
+        }, 
+        "(6,11,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "66ed6e93a6a7ec1a9abdedb9ccbfac85", 
+            "key": "(6,11,13)", 
+            "filename": "D:\\maps\\6\\11\\13.png"
+        }, 
+        "(6,5,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,5,10)", 
+            "filename": "D:\\maps\\6\\5\\10.png"
+        }, 
+        "(4,2,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(4,2,0)", 
+            "filename": "D:\\maps\\4\\2\\0.png"
+        }, 
+        "(6,3,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "8c1ce5f1de8eaa7b7abcf00d6bd43b20", 
+            "key": "(6,3,6)", 
+            "filename": "D:\\maps\\6\\3\\6.png"
+        }, 
+        "(6,12,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "989f333a8fdc6be84bee265cf5de974b", 
+            "key": "(6,12,12)", 
+            "filename": "D:\\maps\\6\\12\\12.png"
+        }, 
+        "(6,3,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(6,3,15)", 
+            "filename": "D:\\maps\\6\\3\\15.png"
+        }, 
+        "(6,14,9)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "87a9534f67f03d0f35895ede20c9976e", 
+            "key": "(6,14,9)", 
+            "filename": "D:\\maps\\6\\14\\9.png"
+        }, 
+        "(5,2,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(5,2,7)", 
+            "filename": "D:\\maps\\5\\2\\7.png"
+        }, 
+        "(6,12,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "6397ab49f94c37eb81be54062364d16a", 
+            "key": "(6,12,10)", 
+            "filename": "D:\\maps\\6\\12\\10.png"
+        }, 
+        "(6,14,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,14,1)", 
+            "filename": "D:\\maps\\6\\14\\1.png"
+        }, 
+        "(6,12,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "743a1ef8d91e7e20762a7b20c4fa9533", 
+            "key": "(6,12,8)", 
+            "filename": "D:\\maps\\6\\12\\8.png"
+        }, 
+        "(5,2,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "34e620c8ae48afd64db8ca3a2a454207", 
+            "key": "(5,2,3)", 
+            "filename": "D:\\maps\\5\\2\\3.png"
+        }, 
+        "(6,1,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,1,8)", 
+            "filename": "D:\\maps\\6\\1\\8.png"
+        }, 
+        "(6,8,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "ba0160b325ef8f947c4a41f4add751aa", 
+            "key": "(6,8,10)", 
+            "filename": "D:\\maps\\6\\8\\10.png"
+        }, 
+        "(6,11,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "ca661a6a915f390ca0a29b11f69c496c", 
+            "key": "(6,11,12)", 
+            "filename": "D:\\maps\\6\\11\\12.png"
+        }, 
+        "(6,0,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "0593dfe6da209139e16dacaa43682c27", 
+            "key": "(6,0,4)", 
+            "filename": "D:\\maps\\6\\0\\4.png"
+        }, 
+        "(6,3,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a9355fcfa15b82be026350da7de4037f", 
+            "key": "(6,3,8)", 
+            "filename": "D:\\maps\\6\\3\\8.png"
+        }, 
+        "(6,1,0)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,1,0)", 
+            "filename": "D:\\maps\\6\\1\\0.png"
+        }, 
+        "(6,10,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "8997da245532b4dc80e6ef4b9e8dc842", 
+            "key": "(6,10,10)", 
+            "filename": "D:\\maps\\6\\10\\10.png"
+        }, 
+        "(6,14,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,14,11)", 
+            "filename": "D:\\maps\\6\\14\\11.png"
+        }, 
+        "(6,13,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,13,13)", 
+            "filename": "D:\\maps\\6\\13\\13.png"
+        }, 
+        "(5,6,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "2c5d5945f8ca069afc46a127ad01f53e", 
+            "key": "(5,6,3)", 
+            "filename": "D:\\maps\\5\\6\\3.png"
+        }, 
+        "(6,5,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "f141626804023671039127c972e5072d", 
+            "key": "(6,5,7)", 
+            "filename": "D:\\maps\\6\\5\\7.png"
+        }, 
+        "(6,0,13)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "53076ba9aca7ad0daa16898441f36602", 
+            "key": "(6,0,13)", 
+            "filename": "D:\\maps\\6\\0\\13.png"
+        }, 
+        "(5,1,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "2b52f8dbb4ff95eed0c64f1972ab9128", 
+            "key": "(5,1,2)", 
+            "filename": "D:\\maps\\5\\1\\2.png"
+        }, 
+        "(6,14,8)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "40a2bf38a505f3a32726bae3fafe617b", 
+            "key": "(6,14,8)", 
+            "filename": "D:\\maps\\6\\14\\8.png"
+        }, 
+        "(6,7,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,7,2)", 
+            "filename": "D:\\maps\\6\\7\\2.png"
+        }, 
+        "(4,1,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "85adf8085b287442ee39a2a5e9c59417", 
+            "key": "(4,1,3)", 
+            "filename": "D:\\maps\\4\\1\\3.png"
+        }, 
+        "(6,10,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "e9f2d269d4045babafd9751bdb5e26ee", 
+            "key": "(6,10,5)", 
+            "filename": "D:\\maps\\6\\10\\5.png"
+        }, 
+        "(6,11,15)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "cbe58d46f5b5470119c219dd47a9a6fa", 
+            "key": "(6,11,15)", 
+            "filename": "D:\\maps\\6\\11\\15.png"
+        }, 
+        "(4,2,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "92f0545953592b015bb017f567b25019", 
+            "key": "(4,2,1)", 
+            "filename": "D:\\maps\\4\\2\\1.png"
+        }, 
+        "(6,4,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "11097f6b83dc3b0603c4361d4917c414", 
+            "key": "(6,4,4)", 
+            "filename": "D:\\maps\\6\\4\\4.png"
+        }, 
+        "(6,15,3)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,3)", 
+            "filename": "D:\\maps\\6\\15\\3.png"
+        }, 
+        "(6,8,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "85330d6a4e42fa289fb852d095ab941c", 
+            "key": "(6,8,5)", 
+            "filename": "D:\\maps\\6\\8\\5.png"
+        }, 
+        "(6,8,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,8,14)", 
+            "filename": "D:\\maps\\6\\8\\14.png"
+        }, 
+        "(5,5,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "20965bce0677945e17c00e0acd45b94c", 
+            "key": "(5,5,6)", 
+            "filename": "D:\\maps\\5\\5\\6.png"
+        }, 
+        "(6,11,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "623749f986a49b071346b2b6fbdf1978", 
+            "key": "(6,11,5)", 
+            "filename": "D:\\maps\\6\\11\\5.png"
+        }, 
+        "(6,2,2)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "1116269bf968293e7f24e3e24f69f268", 
+            "key": "(6,2,2)", 
+            "filename": "D:\\maps\\6\\2\\2.png"
+        }, 
+        "(6,14,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "30b6db1d3561d94b0e2bd25177ff3c08", 
+            "key": "(6,14,4)", 
+            "filename": "D:\\maps\\6\\14\\4.png"
+        }, 
+        "(6,7,12)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "a005869c99286156f06ab3916011bf18", 
+            "key": "(6,7,12)", 
+            "filename": "D:\\maps\\6\\7\\12.png"
+        }, 
+        "(6,6,5)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3d34af42265ae142a9c5c435fbd5e899", 
+            "key": "(6,6,5)", 
+            "filename": "D:\\maps\\6\\6\\5.png"
+        }, 
+        "(6,4,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,4,10)", 
+            "filename": "D:\\maps\\6\\4\\10.png"
+        }, 
+        "(5,4,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(5,4,1)", 
+            "filename": "D:\\maps\\5\\4\\1.png"
+        }, 
+        "(6,11,4)": {
+            "status": "Done", 
+            "queueNumber": 0, 
+            "md5": "cfdb43747a6c251f408bbd993b0b2ca3", 
+            "key": "(6,11,4)", 
+            "filename": "D:\\maps\\6\\11\\4.png"
+        }, 
+        "(6,6,14)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,6,14)", 
+            "filename": "D:\\maps\\6\\6\\14.png"
+        }, 
+        "(6,3,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,3,1)", 
+            "filename": "D:\\maps\\6\\3\\1.png"
+        }, 
+        "(6,15,6)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "0141f0b87f533de1f0378cadc8510a95", 
+            "key": "(6,15,6)", 
+            "filename": "D:\\maps\\6\\15\\6.png"
+        }, 
+        "(6,5,11)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,5,11)", 
+            "filename": "D:\\maps\\6\\5\\11.png"
+        }, 
+        "(6,15,1)": {
+            "status": "Done", 
+            "queueNumber": 1, 
+            "md5": "3131cf489b6900f4957bcd8b6e23dab3", 
+            "key": "(6,15,1)", 
+            "filename": "D:\\maps\\6\\15\\1.png"
+        }, 
+        "(6,9,7)": {
+            "status": "Done", 
+            "queueNumber": 3, 
+            "md5": "7af44e2fd7e9eb0eb3fdfba3eec6bfdc", 
+            "key": "(6,9,7)", 
+            "filename": "D:\\maps\\6\\9\\7.png"
+        }, 
+        "(6,11,10)": {
+            "status": "Done", 
+            "queueNumber": 2, 
+            "md5": "4e0d785f813eae087ca65dc9ecad6619", 
+            "key": "(6,11,10)", 
+            "filename": "D:\\maps\\6\\11\\10.png"
+        }
+    }, 
+    "status": {
+        "notdone": 0, 
+        "progress": 1.0, 
+        "skipped": 0, 
+        "done": 341
+    }, 
+    "minzoom": 2, 
+    "errors": {
+        "count": 0, 
+        "log": {}
+    }, 
+    "referencesize": 4096
+}
